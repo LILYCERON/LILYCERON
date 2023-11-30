@@ -66,7 +66,7 @@
 <a href="https://www.linkedin.com/in/liliana-rosada-46114516a/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=Gmail style="margin-bottom: 5px;" />
+<img src=https://img.shields.io/badge/gmail-%231E77B5.svg?&style=for-the-badge&logo=Gmail&logoColor=white alt=Gmail style="margin-bottom: 5px;" />
   <p>lilyceron00@gmail.com</p>
 </div>  
   
