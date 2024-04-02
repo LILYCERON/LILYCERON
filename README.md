@@ -70,6 +70,15 @@
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=LILYCERON&show_icons=true&count_private=true&hide_border=true" align="center" /></div> 
 <br/>
 
+## Projects
+Development of a Single Page Application (SPA) using React for the front end and Redux as state management. Pure CSS was implemented for styles without the use of external libraries. The SPA consumes data from an API (The Drivers API) through a Back End developed in Node.JS using Express, adding new functionalities to the original API. In the project, filters (name, team,name by alphabetical order, created) and a form for creating new driver can be found, which are stored in a database made with Sequelize and PostgreSQL.
+<div>
+<img src="https://github.com/LILYCERON/LILYCERON/assets/128845224/27cedb61-ba30-4239-adf9-a8eab20c8e8d" alt="Principal" width="30%"/>
+<img src="https://github.com/LILYCERON/LILYCERON/assets/128845224/3fef5303-74d3-4a4f-adac-410476b71462" alt="Home" width="30%/>
+<img src="https://github.com/LILYCERON/LILYCERON/assets/128845224/a88b6df6-dfce-466b-a4f5-692c64a6e4d3" alt="Detail" width="30%"/>
+<img src="https://github.com/LILYCERON/LILYCERON/assets/128845224/a47f03d1-6434-4759-aaf6-7da63b671cb2" alt="Form" width="30%"/>
+</div>
+
 
 ----
 <div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
